@@ -69,5 +69,5 @@ Don't hesitate to send us feedback at [bettercodehub@sig.eu](mailto://bettercode
 
 Go, go, go! 
 
-[Yiannis] (https://github.com/ykanell), [Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu) and [Michiel](https://github.com/michielcuijpers)
+[Yiannis](https://github.com/ykanell), [Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu) and [Michiel](https://github.com/michielcuijpers)
 

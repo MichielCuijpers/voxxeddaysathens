@@ -1,9 +1,9 @@
 # voxxeddaysathens.github.io
 **What**: [Better Code Hub](https://bettercodehub.com) - a [GitHub Integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu).
 
-**When**:  2017 during the [Blockgeeks Lab Hackathon](http://bglhackathon.com).
+**When**: 18 - 20 May 2017 during the [Voxxed Days Athens](https://voxxeddays.com/athens/).
 
-**Where**: [MaRS Discovery District, Toronto Canada](https://marsdd.com).
+**Where**: [Village Cinemas @ the Mall Athens](http://www.villagecinemas.gr/el/kinimatografoi/the-mall-14-cinemas/).
 
 With Better Code Hub, you can check how good your team's code scores compared with the state of the art in software engineering. If Better Code Hub says you're compliant (✅) then it means you're performing like the top teams in the industry. It checks for compliance with 10 guidelines for Maintainable Software. 
 

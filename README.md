@@ -7,9 +7,12 @@
 
 **Where**: [Village Cinemas @ the Mall Athens](http://www.villagecinemas.gr/el/kinimatografoi/the-mall-14-cinemas/).
 
-### Welcome to our Voxxed Days Athens repository. You are almost ready to join the contest. 
+### Welcome to our Voxxed Days Athens repository. 
+### You are almost ready to join the contest. 
 
-From 26 April to 18 May, you can work on your code base while using Better Code Hub. In Athens - during Voxxed Days - we will announce the coders who where able to improve their code base best. Winners will be awarded with Power Packs - including a Better Code Hub license, Quality Software Development (QSD) exam voucher and hard copies of ‘Building Maintainable Software’ and ‘Building Software Teams - to really get you going on writing future-proof code. 
+From 26 April to 18 May, you can work on your code base while using Better Code Hub. In Athens - during Voxxed Days - we will announce the coders who where able to improve their code base best. 
+
+Winners will be awarded with Power Packs - including a Better Code Hub license, Quality Software Development (QSD) exam voucher and hard copies of ‘Building Maintainable Software’ and ‘Building Software Teams - to really get you going on writing future-proof code. 
 
 Find out how to get started with Better Code Hub and start improving your code right away! 
 

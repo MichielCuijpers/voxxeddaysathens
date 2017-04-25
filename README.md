@@ -16,7 +16,7 @@
 
 **Winners will be awarded with Power Packs** - including a Better Code Hub license, Quality Software Development (QSD) exam voucher and hard copies of O'Reilly books ‘Building Maintainable Software’ and ‘Building Software Teams - to really get you going on writing future-proof code. 
 
-**Registration** for the contest can be done by adding a Better Code Hub Badge to your README.md file. 
+**Registration:** Send us a Pull request with your Better Code Hub Badge code here.
 
 ### How to get started! 
 

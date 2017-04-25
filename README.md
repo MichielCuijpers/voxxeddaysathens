@@ -1,4 +1,4 @@
-## UNDER CONSTRUCTION 
+## UNDER CONSTRUCTION / Introduction
 
 
 **What**: [Better Code Hub](https://bettercodehub.com) - a [GitHub Integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu).

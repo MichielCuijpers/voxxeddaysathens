@@ -16,7 +16,7 @@
 
 **Winners will be awarded with Power Packs** - including a Better Code Hub license, Quality Software Development (QSD) exam voucher and hard copies of O'Reilly books ‘Building Maintainable Software’ and ‘Building Software Teams - to really get you going on writing future-proof code. 
 
-**Registration:** Send us a Pull request with your Better Code Hub Badge code here.
+**Registration:** Send us a Pull request with your Better Code Hub Badge code [here](https://github.com/voxxeddaysathens/voxxeddaysathens.github.io/blob/master/voxxeddaysathensscoreboard.md).
 
 ### How to get started! 
 

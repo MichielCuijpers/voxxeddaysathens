@@ -16,13 +16,15 @@
 
 **Winners will be awarded with Power Packs** - including a Better Code Hub license, Quality Software Development (QSD) exam voucher and hard copies of O'Reilly books ‘Building Maintainable Software’ and ‘Building Software Teams - to really get you going on writing future-proof code. 
 
-### Find out how to get started! 
+**Registration** for the contest can be done by adding a Better Code Hub Badge to your README.md file. 
+
+### How to get started! 
 
 With Better Code Hub, you can check how good your team's code scores compared with the state of the art in software engineering. If Better Code Hub says you're compliant (✅) then it means you're performing like the top teams in the industry. It checks for compliance with 10 guidelines for Maintainable Software. 
 
 ![10 guidelines](https://cdn-images-1.medium.com/max/1440/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
 
-The guidelines are described in full in the book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) - be sure to get your complementary copy during the event! Compliance to the guidelines is derived from the Software Improvement Group's industry benchmark (8 billion lines of code, over 180 technologies). 
+The guidelines are described in full in the book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) Compliance to the guidelines is derived from the Software Improvement Group's industry benchmark (8 billion lines of code, over 180 technologies). 
 
 ## Supported Languages
 
@@ -33,7 +35,7 @@ For a full list of the supported technologies, including Solidity, check [here](
 
 * **Public** repo? Just go to [bettercodehub.com](https://bettercodehub.com) and login [FREE] with your GitHub account.
 
-* **Private**? Share your Github handle to get [PRO] access. Before the event: e-mail your name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu). During the event: go to the local Event staff with the handles.
+* **Private**? Share your Github handle to get [PRO] access. Before the event: e-mail your name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu). During the event: come to the SIG booth.
 
 ## Zero set-up time
 

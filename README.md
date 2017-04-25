@@ -7,8 +7,8 @@
 
 **Where**: [Village Cinemas @ the Mall Athens](http://www.villagecinemas.gr/el/kinimatografoi/the-mall-14-cinemas/).
 
-### Welcome to our Voxxed Days Athens repository. 
-### You are almost ready to join the contest. 
+### Welcome to our Voxxed Days Athens Contest. 
+### How to join  
 
 From 28 April to 19 May, you can work on your code base (a repository of your choice) while using Better Code Hub. In Athens - during Voxxed Days - we will announce the coders who where able to improve their code base best. 
 

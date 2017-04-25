@@ -10,9 +10,9 @@
 
 ### About The Contest  
 
-From 28 April to 19 May, you can improve your public or private codebase while using Better Code Hub to get refactor candidates. 
+**From 28 April to 19 May**, you can improve your public or private codebase while using Better Code Hub to get refactor candidates. 
 
-During Voxxed Days Athens - we will announce the coders who where able to improve their codebase best by looking at their Better Code Hub badge. 
+**During Voxxed Days Athens** - we will announce the coders who where able to improve their codebase best by looking at their Better Code Hub badge. 
 
 **Winners will be awarded with Power Packs** - including a Better Code Hub license, Quality Software Development (QSD) exam voucher and hard copies of O'Reilly books ‘Building Maintainable Software’ and ‘Building Software Teams - to really get you going on writing future-proof code. 
 

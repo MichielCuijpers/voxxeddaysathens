@@ -3,7 +3,7 @@
 
 **What**: [Better Code Hub](https://bettercodehub.com) - a [GitHub Integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu).
 
-**When**: 18 - 20 May 2017 during the [Voxxed Days Athens](https://voxxeddays.com/athens/).
+**When**: 28 - 19 May 2017 during the [Voxxed Days Athens](https://voxxeddays.com/athens/).
 
 **Where**: [Village Cinemas @ the Mall Athens](http://www.villagecinemas.gr/el/kinimatografoi/the-mall-14-cinemas/).
 
@@ -31,7 +31,7 @@ For a full list of the supported technologies, including Solidity, check [here](
 
 * **Public** repo? Just go to [bettercodehub.com](https://bettercodehub.com) and login [FREE] with your GitHub account.
 
-* **Private**? Share your Github handle to get [PRO] access. Before the event: e-mail your name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu). During the event: go to the local Hackathon staff with the handles.
+* **Private**? Share your Github handle to get [PRO] access. Before the event: e-mail your name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu). During the event: go to the local Event staff with the handles.
 
 ## Zero set-up time
 

@@ -6,7 +6,7 @@
 
 **When**: 28 April - 19 May 2017 during the [Voxxed Days Athens](https://voxxeddays.com/athens/).
 
-**Where**: [Village Cinemas @ the Mall Athens](http://www.villagecinemas.gr/el/kinimatografoi/the-mall-14-cinemas/).
+**Where**: [Athinais Cultural Center](http://www.athinais.com.gr/en/).
 
 ### About The Contest  
 

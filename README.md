@@ -80,7 +80,7 @@ Don't hesitate to send us feedback at [bettercodehub@sig.eu](mailto://bettercode
 
 **Let's build some great software** 😊
 
-Go, go, go! 
+Go, go, go and see you at Voxxed Days Athens! 
 
-[Yiannis](https://github.com/ykanell), [Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu) and [Michiel](https://github.com/michielcuijpers)
+[Yiannis](https://github.com/ykanell) and [Michiel](https://github.com/michielcuijpers)
 

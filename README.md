@@ -10,7 +10,7 @@
 
 ### About The Contest  
 
-**From 28 April to 19 May**, you can improve your public or private codebase while using Better Code Hub to get refactor candidates. 
+**From 3 May to 19 May**, you can improve your public or private codebase while using Better Code Hub to get refactor candidates. 
 
 **During Voxxed Days Athens** - we will announce the coders who where able to improve their codebase best by looking at their Better Code Hub badge. 
 

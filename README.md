@@ -4,7 +4,7 @@
 
 **What**: [Better Code Hub](https://bettercodehub.com) - a [GitHub Integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu).
 
-**When**: 28 April - 19 May 2017 during the [Voxxed Days Athens](https://voxxeddays.com/athens/).
+**When**: 3 May - 19 May 2017 during the [Voxxed Days Athens](https://voxxeddays.com/athens/).
 
 **Where**: [Athinais Cultural Center](http://www.athinais.com.gr/en/).
 

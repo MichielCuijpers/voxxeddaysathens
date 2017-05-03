@@ -1,4 +1,4 @@
-## UNDER CONSTRUCTION / Introduction
+## Introduction
 
 **Why**: Better Code is Better Business. Introducing Better Code Hub to the VoXXed Days community. 
 

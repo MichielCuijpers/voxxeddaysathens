@@ -17,12 +17,13 @@
 **Winners will be awarded with Power Packs** - including a Better Code Hub license, Quality Software Development (QSD) exam voucher and hard copies of O'Reilly books ‘Building Maintainable Software’ and ‘Building Software Teams - to really get you going on writing future-proof code. 
 
 
-## If you're on GitHub you're good to go 
+### If you're on GitHub you're good to go 
 
 * **Public** repo? Just go to [bettercodehub.com](https://bettercodehub.com) and login [FREE] with your GitHub account.
 
 * **Private**? Share your Github handle to get [PRO] access. Before the event: e-mail your name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu). During the event: come to the SIG booth.
 
+To _register_ for the contest we use a scoreboard. To be on that scoreboard please send us a Pull request with your Better Code Hub Badge code [here](https://github.com/voxxeddaysathens/voxxeddaysathens.github.io/blob/master/voxxeddaysathensscoreboard.md).
 
 ### How to get started! 
 
@@ -69,9 +70,6 @@ languages:
 Of course, you can create the configuration file directly, and place it to the root of your repository. For details check the [configuration manual](https://bettercodehub.com/docs/configuration-manual).
 
 * **Solidity** in your repo? To analyze that languange too please add [- solidity] to the configuration file as shown in the example above. 
-
-## Scoreboard
-Send us a Pull request with your Better Code Hub Badge code [here](https://github.com/voxxeddaysathens/voxxeddaysathens.github.io/blob/master/voxxeddaysathensscoreboard.md).
 
 
 ## Support and PRO License 

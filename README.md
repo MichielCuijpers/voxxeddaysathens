@@ -23,7 +23,7 @@
 
 * **Private**? Share your Github handle to get [PRO] access. Before the event: e-mail your name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu). During the event: come to the SIG booth.
 
-To _register_ the particpants of the contest we use a scoreboard. To be on that scoreboard please send us a Pull request with your Better Code Hub Badge code [here](https://github.com/voxxeddaysathens/voxxeddaysathens.github.io/blob/master/voxxeddaysathensscoreboard.md).
+To _register_ the participants of the contest we use a scoreboard. To be on that scoreboard please send us a Pull request with your Better Code Hub Badge code [here](https://github.com/voxxeddaysathens/voxxeddaysathens.github.io/blob/master/voxxeddaysathensscoreboard.md).
 
 ### How to get started! 
 

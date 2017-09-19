@@ -1,32 +1,19 @@
-## Introduction
+## Free Pro License for 2 months
 
-**Why**: Better Code is Better Business. Introducing Better Code Hub to the VoXXed Days community. 
+**Why**: Better Code is Better Business. Introducing Better Code Hub to the Agile Greece conference 2017. 
 
-**What**: [Better Code Hub](https://bettercodehub.com) - a [GitHub Integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu).
+**What**: [Better Code Hub](https://bettercodehub.com) - a [GitHub Marketplace app](https://github.com/marketplace/better-code-hub) that gives developers a definition of done for code quality. You can improve your public or private codebase while using Better Code Hub in your CICD pipleine to get refactor candidates. 
 
-**When**: 3 May - 19 May 2017 during the [Voxxed Days Athens](https://voxxeddays.com/athens/).
+**When**: Friday, September 22nd 2017 during the [Agile Greece Summit 2017](https://http://agilesummit.gr).
 
-**Where**: [Athinais Cultural Center](http://www.athinais.com.gr/en/).
-
-### About The Contest  
-
-**From 3 May to 19 May**, you can improve your public or private codebase while using Better Code Hub to get refactor candidates. 
-
-**During Voxxed Days Athens** - we will announce the coders who where able to improve their codebase best by looking at their Better Code Hub badge. 
-
-**Winners will be awarded with Power Packs** - including a Better Code Hub license, Quality Software Development (QSD) exam voucher and hard copies of O'Reilly books ‘Building Maintainable Software’ and ‘Building Software Teams - to really get you going on writing future-proof code. 
+**Where**: The SIG & PeopleCert booth at [Proorismos Papstratos](http://agilesummit.gr/venue-proorismos-papastratos/).
 
 
-### If you're on GitHub you're good to go 
+### How to get your free PRO license
 
-* **Public** repo? Just go to [bettercodehub.com](https://bettercodehub.com) and login [FREE] with your GitHub account.
+Come visit the SIG booth and share your personal GitHub handle. 
 
-* **Private**? Share your Github handle to get [PRO] access. Before the event: e-mail your name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu). During the event: come to the SIG booth.
-
-### How to register for the contest
-To _register_ the participants of the contest we use a scoreboard. To be on that scoreboard please send us a Pull Request with your Better Code Hub Badge code [here](https://github.com/voxxeddaysathens/voxxeddaysathens.github.io/blob/master/voxxeddaysathensscoreboard.md). After five o'clock on Friday May 19 we will no longer accept your Pull Request.
-
-### How to get started! 
+### How to get started with better Code Hub! 
 
 With Better Code Hub, you can check how good your team's code scores compared with the state of the art in software engineering. If Better Code Hub says you're compliant (✅) then it means you're performing like the top teams in the industry. It checks for compliance with 10 guidelines for Maintainable Software. 
 
@@ -37,7 +24,7 @@ The guidelines are described in full in the book [“Building Maintainable Softw
 ## Supported Languages
 
 ![Languages](languages.png)
-For a full list of the supported technologies, including Solidity, check [here](https://bettercodehub.com/docs/configuration-manual).
+For a full list of the supported technologies, check [here](https://bettercodehub.com/docs/configuration-manual).
 
 ## Zero set-up time
 
